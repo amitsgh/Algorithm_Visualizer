@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "algoenv\\Scripts\\python.exe",
+  "python.formatting.provider": "yapf"
+}
